@@ -3,6 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 ![Stability: experimental](https://img.shields.io/badge/stability-experimental-orange.svg)
 
+A solver for the Dungeons & Diagrams puzzle game by Zach Barth / Zachtronics.
+The game is part of the [Last Call BBS](https://www.zachtronics.com/last-call-bbs/) game. A paper ruleset with 9 dungeons is also [available as PDF](https://www.zachtronics.com/files/advanced_dungeons_and_diagrams.pdf).
+
 ## Building & Testing
 
 ### Prerequisites
